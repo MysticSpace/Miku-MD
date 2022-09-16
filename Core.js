@@ -4794,7 +4794,7 @@ id: '-menu'
 }  
 }, {
 quickReplyButton: {
-displayText: 'Bot Owner',
+displayText: 'Click Chey Myre',
 id: '-owner'
 }
 }]
